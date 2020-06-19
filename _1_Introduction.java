@@ -37,6 +37,8 @@ public class _1_Introduction{
         // 2 Less Coding 
 
          // Main2 >>>>>>>>>>>>>>>>>>>>
+
+         // check for the day 2
     }
 
 }
